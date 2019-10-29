@@ -1,5 +1,10 @@
 # Prerequisites
 *.d
+#Ignore file named otherbranc.txt
+otherbranc.txt
+
+#ignore folder named testt1
+testt1/
 
 # Compiled Object files
 *.slo
