@@ -6,6 +6,8 @@ otherbranc.txt
 #ignore folder named testt1
 testt1/
 
+.txt
+
 # Compiled Object files
 *.slo
 *.lo
